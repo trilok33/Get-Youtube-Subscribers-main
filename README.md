@@ -26,6 +26,11 @@ Mongoose (DB library)
 I learned how to create an API and how to connect the front end with backend along with the use of Mongoose for integrating the application with the database.
 
 ## Author
+Thrilok B
+For Alma Better
+https://grow.almabetter.com/
+Linkedin - https://www.linkedin.com/in/thrilok-b-b69203254/
+
 Syed Umair
 For Alma Better
 https://grow.almabetter.com/
